@@ -7,8 +7,8 @@
 #boostrap 4.3.1
 #mssql
 
-1. For Running Project : $ git init
+    1. For Running Project : $ git init
 
-2.then run project : $ npm start
+    2.then run project : $ npm start
 
-3. check http://localhost:8080
+    3. check http://localhost:8080
